@@ -1,0 +1,163 @@
+{
+ "source": "Rêve de Dragon (réédition Scriptarium)",
+ "note": "Questions et pages attendues seulement, aucun texte du livre.",
+ "questions": [
+  {
+   "question": "Quelles sont mes chances de réussite pour un jet de dés ?",
+   "pages": [
+    28,
+    29,
+    30,
+    31
+   ]
+  },
+  {
+   "question": "Que se passe-t-il quand deux compétences s'appliquent à la même action ?",
+   "pages": [
+    33
+   ]
+  },
+  {
+   "question": "Comment mesurer la qualité d'un plat que je cuisine ?",
+   "pages": [
+    34,
+    35
+   ]
+  },
+  {
+   "question": "Mon personnage est fatigué et blessé : quel malus sur ses jets ?",
+   "pages": [
+    31,
+    32
+   ]
+  },
+  {
+   "question": "Comment se déroule la création de personnage ?",
+   "pages": [
+    42,
+    43
+   ]
+  },
+  {
+   "question": "Comment monter dans les Terres Médianes ?",
+   "pages": [
+    182
+   ]
+  },
+  {
+   "question": "Quelles rencontres peut-on faire dans les TMR ?",
+   "pages": [
+    182,
+    183,
+    184,
+    185,
+    186,
+    187
+   ]
+  },
+  {
+   "question": "Qu'est-ce qu'une queue de dragon ?",
+   "pages": [
+    195,
+    196,
+    197,
+    198
+   ]
+  },
+  {
+   "question": "Comment récupère-t-on ses points de rêve ?",
+   "pages": [
+    206,
+    207
+   ]
+  },
+  {
+   "question": "Quels sont les sorts d'illusion disponibles ?",
+   "pages": [
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263
+   ]
+  },
+  {
+   "question": "Comment gagner de l'expérience et progresser dans une compétence ?",
+   "pages": [
+    146,
+    147
+   ]
+  },
+  {
+   "question": "Comment fonctionnent les blessures ?",
+   "pages": [
+    95,
+    96,
+    97
+   ]
+  },
+  {
+   "question": "Qui agit en premier pendant un combat ?",
+   "pages": [
+    120,
+    121
+   ]
+  },
+  {
+   "question": "Quels sont les effets d'un poison ?",
+   "pages": [
+    107,
+    108,
+    109
+   ]
+  },
+  {
+   "question": "Comment utiliser les points de chance ?",
+   "pages": [
+    150,
+    151,
+    152,
+    153,
+    154,
+    155
+   ]
+  },
+  {
+   "question": "Comment saisir un adversaire à mains nues ?",
+   "pages": [
+    133,
+    134,
+    135,
+    136,
+    137
+   ]
+  },
+  {
+   "question": "Qu'est-ce que la voie d'Hypnos ?",
+   "pages": [
+    174,
+    175,
+    240
+   ]
+  }
+ ]
+}
