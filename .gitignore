@@ -1,0 +1,13 @@
+# Textes du jeu : protégés par le droit d'auteur, ne jamais les publier.
+# Ce dépôt est public : le livre, son texte extrait et l'index restent sur l'ordinateur.
+livres/
+corpus/
+index/
+*.pdf
+*.epub
+
+# Python
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
